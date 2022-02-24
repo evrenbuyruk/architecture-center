@@ -1,6 +1,6 @@
 ### YamlMime:Architecture
 metadata:
-  title: Deploy highly available NVAs
+  title: Deploy highly available Network Virtual Appliances (NVAs)
   description: Learn how to deploy network virtual appliances for high availability architectures for ingress, egress, and both in Azure.
   author: telmosampaio
   ms.author: pnp
